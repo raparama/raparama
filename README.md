@@ -15,5 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+[![Download Resume](https://img.shields.io/badge/Resume-Download-blue)](https://www.linkedin.com/in/rparama/)
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rparama/)](https://www.linkedin.com/in/rparama/) 
