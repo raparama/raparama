@@ -2,7 +2,7 @@
 
 I’m currently working as Senior Specialist - Data Engineering. Industry leader in Business Intelligent and Data Analyst with 17 years of dynamic and data enthusiastic. I have been performing duties like: Architecting, building data models, extracting, analyzing, Query performance fine tuning, visualizing, managing and sorting data to create insights and help the Business users to make powerful data-driven decisions.
 
-![Resume](https://img.shields.io/badge/Resume-blue?style=flat-square&logo=icloud&logoWidth&=40&labelColor=C6CB00&link=https://github.com/raparama/raparama/blob/main/Rajasekaran_Paramasivam_DS.pdf)
+![Resume](https://img.shields.io/badge/Resume-blue?style=flat-square&logo=adobe&logoWidth&=40&labelColor=C6CB00&link=https://github.com/raparama/raparama/blob/main/Rajasekaran_Paramasivam_DS.pdf)
 
 
 
@@ -16,7 +16,7 @@ Currently improving my skills towards Data Scienctist in areas: <br> <img src="h
 
 ### 📫 How to reach me:
 
-[![Email](https://img.shields.io/badge/-rajasekaran@rparama.com-1A5C71?style=for-the-badge&logo=gmail&logoWidth&=40&link=mailto:rajasekaran@rparama.com&labelColor=white)](mailto:rajasekaran@rparama.com) 
+[![Email](https://img.shields.io/badge/-rajasekaran@rparama.com-1A5C71?style=for-the-badge&logo=gmail&logoWidth&=40&link=mailto:rajasekaran@rparama.com&labelColor=C6CB00)](mailto:rajasekaran@rparama.com) 
 [![Github](https://img.shields.io/badge/-github-1A5C71?style=for-the-badge&logo=github&logoWidth&=40&link=https://github.com/raparama&labelColor=C6CB00)](https://github.com/raparama) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rparama/)](https://www.linkedin.com/in/rparama/) 
 
 
