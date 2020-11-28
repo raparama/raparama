@@ -6,8 +6,13 @@ I’m currently working as Senior Specialist - Data Engineering. Industry leader
 
 ### What I'm focusing on 
 Currently improving my skills towards Data Scienctist in areas: <br> 
-![Image of PYTHON](https://img.shields.io/badge/PYTHON-1A5C71?style=flat-square")
+![Image1](https://img.shields.io/badge/PYTHON-1A5C71?style=flat-square)
+![Image2](https://img.shields.io/badge/MATPLOTLIB-1A5C71?style=flat-square)
+![Image3](https://img.shields.io/badge/PANDAS-1A5C71?style=flat-square)
+![Image4](https://img.shields.io/badge/NUMPY-1A5C71?style=flat-square)
+![Image5](https://img.shields.io/badge/SEABORN-1A5C71?style=flat-square)
 
+> <img src="https://img.shields.io/badge/STATSMODELS-1A5C71?style=flat-square"> <img src="https://img.shields.io/badge/SKLEARN-1A5C71?style=flat-square"> <img src="https://img.shields.io/badge/SCIPY-1A5C71?style=flat-square"> <img src="https://img.shields.io/badge/DATA BRICKS-1A5C71?style=flat-square"> <img src="https://img.shields.io/badge/CASSANDRA-1A5C71?style=flat-square"> <img src="https://img.shields.io/badge/APACHE SPARK-1A5C71?style=flat-square"> <img src="https://img.shields.io/badge/APACHE HADOOP-1A5C71?style=flat-square"> <img src="https://img.shields.io/badge/SQOOP-1A5C71?style=flat-square"> <img src="https://img.shields.io/badge/HIVE-1A5C71?style=flat-square"> <img src="https://img.shields.io/badge/HUE-1A5C71?style=flat-square"> <img src="https://img.shields.io/badge/HBASE-1A5C71?style=flat-square"> <img src="https://img.shields.io/badge/MAPREDUCE-1A5C71?style=flat-square"> <img src="https://img.shields.io/badge/NEO4j-1A5C71?style=flat-square"> <img src="https://img.shields.io/badge/ORACLE-1A5C71?style=flat-square"> <img src="https://img.shields.io/badge/MS SQL Server-1A5C71?style=flat-square"> <img src="https://img.shields.io/badge/SSIS-1A5C71?style=flat-square"> <img src="https://img.shields.io/badge/SSRS-1A5C71?style=flat-square"> <img src="https://img.shields.io/badge/TERADATA-1A5C71?style=flat-square"> <img src="https://img.shields.io/badge/DB2-1A5C71?style=flat-square"> <img src="https://img.shields.io/badge/NETEZZA-1A5C71?style=flat-square"> <img src="https://img.shields.io/badge/MYSQL-1A5C71?style=flat-square"> <img src="https://img.shields.io/badge/MICROSTRATEGY-1A5C71?style=flat-square"> <img src="https://img.shields.io/badge/TABLEAU-1A5C71?style=flat-square"> <img src="https://img.shields.io/badge/POWERBI-1A5C71?style=flat-square"> <img src="https://img.shields.io/badge/ARCADIA DATA ANALYSIS-1A5C71?style=flat-square"> <img src="https://img.shields.io/badge/GITHUB-1A5C71?style=flat-square"> <img src="https://img.shields.io/badge/JIRA-1A5C71?style=flat-square"> <img src="https://img.shields.io/badge/SCRUM-1A5C71?style=flat-square"> <img src="https://img.shields.io/badge/JUPYTER-1A5C71?style=flat-square"> <img src="https://img.shields.io/badge/EXCEL-1A5C71?style=flat-square"> <img src="https://img.shields.io/badge/PYSPARK-1A5C71?style=flat-square">
 
 
 
