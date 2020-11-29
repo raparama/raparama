@@ -5,7 +5,7 @@ I’m currently working as Senior Specialist - Data Engineering. I have been per
 [![Resume](https://img.shields.io/badge/-Resume-1A5C71?style=for-the-badge&logo=adobe&logoWidth=40&labelColor=C6CB00&link=https://github.com/raparama/raparama/blob/main/Rajasekaran_Paramasivam_DS.pdf)](https://github.com/raparama/raparama/blob/main/Rajasekaran_Paramasivam_DS.pdf)
 
 ### Skill Set
-Currently improving my skills towards Data Scienctist in areas: <br> 
+
 ![Image1](https://img.shields.io/badge/PYTHON-1A5C71?style=flat-square)
 ![Image2](https://img.shields.io/badge/MATPLOTLIB-1A5C71?style=flat-square)
 ![Image3](https://img.shields.io/badge/PANDAS-1A5C71?style=flat-square)
