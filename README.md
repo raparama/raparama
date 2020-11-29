@@ -1,6 +1,6 @@
-### 👋 Hello, I'm Raj, a Data Scientist from Chennai, India
+### 👋 Hello, I'm Raj, a Data Scientist
 
-I’m currently working as Senior Specialist - Data Engineering. Industry leader in Business Intelligent and Data Analyst with 17 years of dynamic and data enthusiastic. I have been performing duties like: Architecting, building data models, extracting, analyzing, Query performance fine tuning, visualizing, managing and sorting data to create insights and help the Business users to make powerful data-driven decisions.
+I’m currently working as Senior Specialist - Data Engineering. I have been performing duties like: Architecting, building data models, extracting, analyzing, Query performance fine tuning, visualizing, managing and sorting data to create insights and help the Business users to make powerful data-driven decisions.
 
 [![Resume](https://img.shields.io/badge/-Resume-1A5C71?style=for-the-badge&logo=adobe&logoWidth=40&labelColor=C6CB00&link=https://github.com/raparama/raparama/blob/main/Rajasekaran_Paramasivam_DS.pdf)](https://github.com/raparama/raparama/blob/main/Rajasekaran_Paramasivam_DS.pdf)
 
@@ -45,7 +45,7 @@ Currently improving my skills towards Data Scienctist in areas: <br>
 
 
 ### 🗂 [CapstoneProject](https://github.com/raparama/CapstoneProject)
-> To always displayed my Machine Learning Academic project work skill done part of POST GRADUATE DIPLOMA IN DATA SCIENCE (PGDDS) course from INTERNATIONAL INSTITUTE OF INFORMATION TECHNOLOGY BANGALORE (IIIT-B)
+> Displayed my Machine Learning Academic project work skill done part of POST GRADUATE DIPLOMA IN DATA SCIENCE (PGDDS) course from INTERNATIONAL INSTITUTE OF INFORMATION TECHNOLOGY BANGALORE (IIIT-B)
 
 ### 📫 How to reach me:
 
