@@ -2,7 +2,7 @@
 
 I’m currently working as Senior Specialist - Data Engineering. I have been performing duties like: Architecting, building data models, extracting, analyzing, Query performance fine tuning, visualizing, managing and sorting data to create insights and help the Business users to make powerful data-driven decisions.
 
-[![Resume](https://img.shields.io/badge/-Resume-1A5C71?style=for-the-badge&logo=adobe&logoWidth=40&labelColor=C6CB00&link=https://github.com/raparama/raparama/blob/main/Rajasekaran_Paramasivam_DS.pdf)](https://github.com/raparama/raparama/blob/main/Rajasekaran_Paramasivam_DS.pdf)
+[![Resume](https://img.shields.io/badge/-Resume-1A5C71?style=for-the-badge&logo=adobe&logoWidth=40&labelColor=C6CB00&link=https://drive.google.com/file/d/1SNvghLzVbg7OFGSZwKIXHgOfzk-9CP37/view?usp=sharing)](https://drive.google.com/file/d/1SNvghLzVbg7OFGSZwKIXHgOfzk-9CP37/view?usp=sharing)
 
 ### Skill Set
 
