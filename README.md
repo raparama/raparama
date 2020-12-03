@@ -51,7 +51,7 @@ I’m currently working as Senior Specialist - Data Engineering. I have been per
 
 [![Github](https://img.shields.io/badge/-github-1A5C71?style=for-the-badge&logo=github&logoWidth=40&link=https://github.com/raparama&labelColor=C6CB00)](https://github.com/raparama)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-1A5C71?style=for-the-badge&logo=Linkedin&logoWidth=40&labelColor=C6CB00&link=https://www.linkedin.com/in/rparama/)](https://www.linkedin.com/in/rparama/)
-[![Email](https://img.shields.io/badge/-rajasekaran@rparama.com-1A5C71?style=for-the-badge&logo=gmail&logoWidth=40&link=mailto:rajasekaran@rparama.com&labelColor=C6CB00)](mailto:rajasekaran@rparama.com)
+[![Email](https://img.shields.io/badge/-rajasekaran@rparama.com-1A5C71?style=for-the-badge&logo=mega&logoWidth=40&link=mailto:rajasekaran@rparama.com&labelColor=C6CB00)](mailto:rajasekaran@rparama.com)
 
 
 <!--
